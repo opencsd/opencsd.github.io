@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://opencsd.github.io/sitemap.xml
