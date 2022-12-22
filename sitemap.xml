@@ -13,12 +13,35 @@
 </url>
 
 <url>
+  <loc>https://github.com/opencsd/Simulator-GUI</loc>
+</url>
+      
+<url>
+  <loc>https://github.com/opencsd/KETI-CSD-Container</loc>
+</url>
+      
+<url>
   <loc>https://github.com/opencsd/KETI-Pushdown-Process-Container</loc>
 </url>
 
+<url>
+  <loc>https://github.com/opencsd/Simulator</loc>
+</url>
 
 <url>
   <loc>https://github.com/opencsd/KETI-Query-Process-Container</loc>
+</url>
+
+<url>
+  <loc>https://github.com/opencsd/Web-API-Server</loc>
+</url>
+
+<url>
+  <loc>https://github.com/opencsd/Web-Visualization</loc>
+</url>
+
+<url>
+  <loc>https://github.com/opencsd/csd-filesystem</loc>
 </url>
 
 </urlset>
