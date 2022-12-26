@@ -13,6 +13,14 @@
 </url>
 
 <url>
+  <loc>https://opencsd.github.io/KETI-Query-Process-Container</loc>
+</url>
+
+<url>
+  <loc>https://opencsd.github.io/KETI-Pushdown-Process-Container</loc>
+</url>
+
+<url>
   <loc>https://github.com/opencsd/KETI-Pushdown-Process-Container</loc>
 </url>
 
